@@ -1,5 +1,8 @@
 ### Hi there 🤙
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzoliuzzo&include_all_commits=true&show_icons=true&theme=transparent&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoliuzzo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzoliuzzo&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenzoliuzzo&layout=donut&card_width=320" />
+</a>
