@@ -45,6 +45,11 @@ LANGUAGE_COLORS = {
 }
 DEFAULT_LANGUAGE_COLOR = "#8a939b"
 
+# GitHub counts a notebook's embedded outputs (images, JSON blobs) as
+# "Jupyter Notebook" bytes, which swamps the actual code languages. Excluded
+# from the top-languages card for that reason.
+EXCLUDED_LANGUAGES = {"Jupyter Notebook"}
+
 
 def _request(url: str, headers: dict[str, str] | None = None) -> object:
     req = urllib.request.Request(url)
@@ -86,6 +91,8 @@ def fetch_language_bytes(repos: list[dict]) -> dict[str, int]:
         except HTTPError:
             continue
         for lang, count in langs.items():
+            if lang in EXCLUDED_LANGUAGES:
+                continue
             totals[lang] = totals.get(lang, 0) + count
     return totals
 
