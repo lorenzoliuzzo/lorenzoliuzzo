@@ -56,9 +56,8 @@ More at [lorenzoliuzzo.github.io/projects](https://lorenzoliuzzo.github.io/proje
 
 ## GitHub
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzoliuzzo&show_icons=true&include_all_commits=true&hide=contribs&title_color=26647f&icon_color=26647f&text_color=21262b&bg_color=fdfcfa&border_color=e5e1d8" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lorenzoliuzzo&layout=compact&card_width=320&title_color=26647f&text_color=21262b&bg_color=fdfcfa&border_color=e5e1d8" />
-</a>
+Self-hosted, updated daily by [a workflow](.github/workflows/update-stats.yml) in this
+repo — no dependency on a third-party stats service.
+
+<img height="180" align="center" src="./generated/stats.svg" alt="Lorenzo's GitHub stats" />
+<img height="216" align="center" src="./generated/top-langs.svg" alt="Lorenzo's most used languages" />
