@@ -7,10 +7,10 @@
   </style>
   <rect x="0.5" y="0.5" width="339" height="215" rx="8" fill="#fdfcfa" stroke="#e5e1d8" />
   <text x="24" y="30" class="title">Most used languages</text>
-  <text x="24" y="52" class="label">C++</text><rect x="150" y="38" width="160" height="10" rx="5" fill="#e5e1d8" /><rect x="150" y="38" width="52.5" height="10" rx="5" fill="#f34b7d" /><text x="316" y="52" class="pct" text-anchor="end">32.8%</text>
-  <text x="24" y="78" class="label">Python</text><rect x="150" y="64" width="160" height="10" rx="5" fill="#e5e1d8" /><rect x="150" y="64" width="51.6" height="10" rx="5" fill="#3572A5" /><text x="316" y="78" class="pct" text-anchor="end">32.2%</text>
-  <text x="24" y="104" class="label">TeX</text><rect x="150" y="90" width="160" height="10" rx="5" fill="#e5e1d8" /><rect x="150" y="90" width="22.3" height="10" rx="5" fill="#3D6117" /><text x="316" y="104" class="pct" text-anchor="end">13.9%</text>
-  <text x="24" y="130" class="label">Typst</text><rect x="150" y="116" width="160" height="10" rx="5" fill="#e5e1d8" /><rect x="150" y="116" width="15.8" height="10" rx="5" fill="#8a939b" /><text x="316" y="130" class="pct" text-anchor="end">9.9%</text>
-  <text x="24" y="156" class="label">HTML</text><rect x="150" y="142" width="160" height="10" rx="5" fill="#e5e1d8" /><rect x="150" y="142" width="5.5" height="10" rx="5" fill="#e34c26" /><text x="316" y="156" class="pct" text-anchor="end">3.4%</text>
+  <text x="24" y="52" class="label">Python</text><rect x="150" y="38" width="160" height="10" rx="5" fill="#e5e1d8" /><rect x="150" y="38" width="52.4" height="10" rx="5" fill="#3572A5" /><text x="316" y="52" class="pct" text-anchor="end">32.7%</text>
+  <text x="24" y="78" class="label">C++</text><rect x="150" y="64" width="160" height="10" rx="5" fill="#e5e1d8" /><rect x="150" y="64" width="51.9" height="10" rx="5" fill="#f34b7d" /><text x="316" y="78" class="pct" text-anchor="end">32.4%</text>
+  <text x="24" y="104" class="label">TeX</text><rect x="150" y="90" width="160" height="10" rx="5" fill="#e5e1d8" /><rect x="150" y="90" width="22.0" height="10" rx="5" fill="#3D6117" /><text x="316" y="104" class="pct" text-anchor="end">13.7%</text>
+  <text x="24" y="130" class="label">Typst</text><rect x="150" y="116" width="160" height="10" rx="5" fill="#e5e1d8" /><rect x="150" y="116" width="16.2" height="10" rx="5" fill="#8a939b" /><text x="316" y="130" class="pct" text-anchor="end">10.1%</text>
+  <text x="24" y="156" class="label">HTML</text><rect x="150" y="142" width="160" height="10" rx="5" fill="#e5e1d8" /><rect x="150" y="142" width="5.4" height="10" rx="5" fill="#e34c26" /><text x="316" y="156" class="pct" text-anchor="end">3.4%</text>
   <text x="24" y="182" class="label">SCSS</text><rect x="150" y="168" width="160" height="10" rx="5" fill="#e5e1d8" /><rect x="150" y="168" width="4.3" height="10" rx="5" fill="#8a939b" /><text x="316" y="182" class="pct" text-anchor="end">2.7%</text>
 </svg>
